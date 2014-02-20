@@ -1,3 +1,4 @@
+echo Repository name:
 read projectname
 #create Project repo
 mkdir -p /var/www/$projectname
