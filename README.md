@@ -11,5 +11,5 @@ appropiate command.
 Instructions
 ---------------------------
 
-[[Edit]] run.sh and uncomment any scripts you would like to use. Then
-mark the scripts you uncommented as executable. Run [[run.sh]] 
+Edit run.sh and uncomment any scripts you would like to use. Then
+mark the scripts you uncommented as executable. Run run.sh 
