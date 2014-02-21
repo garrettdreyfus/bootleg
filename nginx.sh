@@ -1,5 +1,6 @@
 #Nginx
 ##################################################################
+read projectname
 apt-get install nginx
 service nginx start
 mkdir -p /var/www/logs/$projectname
